@@ -1,0 +1,4 @@
+<form action="search">
+<form action="/test" method="get" id="search_form"><p><input type="text" id="q" name="q" value="" size="15" alt="search"/> <input value="result" type="submit" /></p></form>
+
+</form>
